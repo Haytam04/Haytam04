@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haytam04" alt="haytam04" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://haytamtanji.vercel.app/](https://haytamtanji.vercel.app/)
+- 👨‍💻 My Portfolio [https://haytamtanji.vercel.app/](https://haytamtanji.vercel.app/)
 
 - 📫 How to reach me **haytam.tanji123@gmail.com**
 
